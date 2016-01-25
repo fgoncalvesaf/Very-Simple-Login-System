@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="title">My App</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="singIn">Sing in</string>
+</resources>
